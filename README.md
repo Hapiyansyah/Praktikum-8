@@ -38,3 +38,5 @@
 ![foto10](foto/foto10.png)
 
 ![foto11](foto/foto11.png)
+
+![diagram_class](foto/diagram_class.JPEG)
