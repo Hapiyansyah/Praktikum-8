@@ -26,3 +26,13 @@
 7. Gunakan def "Hapus" untuk mengubah data.
 
 ![foto6](foto/foto6.png)
+
+![foto7](foto/foto7.png)
+
+![foto8](foto/foto8.png)
+
+![foto9](foto/foto9.png)
+
+![foto10](foto/foto10.png)
+
+![foto11](foto/foto11.png)
