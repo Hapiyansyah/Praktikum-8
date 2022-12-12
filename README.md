@@ -39,4 +39,4 @@
 
 ![foto11](foto/foto11.png)
 
-![diagram_class](foto/diagram_class.JPEG)
+![diagram_class](foto/diagram_class.jpeg)
