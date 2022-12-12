@@ -43,7 +43,3 @@
 ## Diagram Kelas
 
 ![diagram_class](foto/diagram_class.jpeg)
-
-## Flowchart
-
-![foto12](foto/foto12.png)
