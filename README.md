@@ -27,6 +27,8 @@
 
 ![foto6](foto/foto6.png)
 
+## OUTPUT
+
 ![foto7](foto/foto7.png)
 
 ![foto8](foto/foto8.png)
