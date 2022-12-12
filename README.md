@@ -39,4 +39,9 @@
 
 ![foto11](foto/foto11.png)
 
+
+## Diagram Kelas
+
 ![diagram_class](foto/diagram_class.jpeg)
+
+
