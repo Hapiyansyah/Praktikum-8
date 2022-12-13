@@ -19,7 +19,7 @@
 
 ![foto4](foto/foto4.png)
 
-6. Gunakan def "Ubah" untuk menghapus data.
+6. Gunakan def "Ubah" untuk mengubah data.
 
 ![foto5](foto/foto5.png)
 
