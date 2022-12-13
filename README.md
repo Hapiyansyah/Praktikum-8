@@ -40,6 +40,6 @@
 ![foto11](foto/foto11.png)
 
 
-## Diagram Kelas
+## Diagram Class
 
 ![diagram_class](foto/diagram_class.jpeg)
